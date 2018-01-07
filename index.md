@@ -1,39 +1,32 @@
 ## 欢迎来到XXX实验平台
 
 在这里，你可以——
-<a id="tips">[了解、参与实验]</a>
-<a id="tips2">[认识开发团队]</a>
+<a href="#tips">[了解、参与实验]</a>
+<a href="#tips2">[认识开发团队]</a>
 
 获得最直接的学术体验。
 
-### 了解实验
+### <a id="tips">了解实验</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 实验简介
+<p>Xxxx</p>
 
-```markdown
-Syntax highlighted code block
+## 实验设计
+<p>XXXXX</p>
 
-# Header 1
-## Header 2
-### Header 3
-
+### 结果与讨论
 - Bulleted
 - List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+#### 参考文献
 
-[Link](url) and ![Image](src)
-```
+[填写问卷](https://github.com/momingqimiao479/momingqimiao479.github.io/settings). 
+[进入测验]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### <a id="tips2">开发团队</a>
+<p>XX实验团队</p>
+<p>地址：北京市新街口外大街19号新主楼 邮编：100875</p> 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/momingqimiao479/momingqimiao479.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
