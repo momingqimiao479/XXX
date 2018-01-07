@@ -1,10 +1,12 @@
-## Welcome to 实验平台
+## 欢迎来到XXX实验平台
 
-You can use the [editor on GitHub](https://github.com/momingqimiao479/momingqimiao479.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+在这里，你可以——
+<a id="tips">[了解、参与实验]</a>
+<a id="tips2">[认识开发团队]</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+获得最直接的学术体验。
 
-### Markdown
+### 了解实验
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
