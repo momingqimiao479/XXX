@@ -19,19 +19,15 @@
 - Bulleted
 - List
 
-#### 参考文献
+### 参考文献
 1. Numbered
 2. List
 
 ## <a id="tips1">参与实验</a>
-<button class=btn>
-<a  href=”www.baidu.com”>填写问卷</a>
-</botton>
-<button class=btn1>
-<a  href="https://github.com/momingqimiao479/XXX-/edit/master/index.md" >进入测验</a>
-</button>
+<p>[填写问卷]</p>
+<p>[进入实验]</p>
 
-#### <a id="tips2">开发团队</a>
+### <a id="tips2">开发团队</a>
 <p>XX实验团队</p>
 <p>地址：北京市新街口外大街19号新主楼 邮编：100875</p> 
 
