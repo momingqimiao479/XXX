@@ -20,8 +20,8 @@
 - List
 
 ### 参考文献
-<i>1. Numbered
-2. List</i>
+<p><i>1. Numbered</i></p>
+<p><i>2. List</i></p>
 
 ## <a id="tips1">参与实验</a>
 <p align="center"><a href="http://www.example.com/"><b>[填写问卷]</b></p>
