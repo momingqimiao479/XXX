@@ -28,5 +28,5 @@
 <p align="center"><a href="http://www.baidu.com/"><b>[进入实验]</b></p>
 
 ## <a id="tips2">开发团队</a>
-<p>XX实验团队</p>
+<p>XXX实验团队</p>
 <p>地址：北京市新街口外大街19号新主楼 邮编：100875</p> 
