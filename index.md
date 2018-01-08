@@ -24,8 +24,8 @@
 <p><i>2. List</i></p>
 
 ## <a id="tips1">参与实验</a>
-<p align="center"><a href="http://www.example.com/"><b>[填写问卷]</b></p>
-<p align="center"><a href="http://www.baidu.com/"><b>[进入实验]</b></p>
+<p align="center"><a href="http://www.example.com/"><b>[填写问卷]</b></a></p>
+<p align="center"><a href="http://www.baidu.com/"><b>[进入实验]</b></a></p>
 
 ## <a id="tips2">开发团队</a>
 <p>XXX实验团队</p>
